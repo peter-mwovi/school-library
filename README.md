@@ -19,7 +19,8 @@
 
 # 📖 [SCHOOL-LIBRARY] <a name="about-project"></a>
 
-> In this project, I optimize some slow queries in my database
+> In this project, I use the Decorator design pattern to correct the names of people.
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -28,9 +29,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[ CREATE CLASS NAMED PERSON]**
-- **[CREATE CLASS NAMED STUDENT]**
-- **[CREATE CLASS NAMED TEACHER]**
+- **[ CREATE CLASS NAMED NAMEABLE]**
+- **[CREATE CLASS NAMED DECORATOR]**
+- **[CREATE CLASS NAMED CAPITALIZE_DECORATOR]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -47,7 +48,7 @@ Clone this repository to your desired folder:
 
   mkdir school-library
   cd school-library
-  git clone git@github.com:eamador1/school-library.git
+  git clone https://github.com/peter-mwovi/school-library.git
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -61,8 +62,6 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add Database Schema Diagram]**
-- [ ] **[Use the Decorator design pattern ]**
 - [ ] **[Set up associations]**
 - [ ] **[Add basic UI]**
 - [ ] **[Unit Tests]**
@@ -74,7 +73,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/eamador1/school-library/issues).
+Feel free to check the [issues page](https://github.com/peter-mwovi/school-library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
