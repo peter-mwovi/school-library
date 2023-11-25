@@ -18,7 +18,7 @@
 
 
 # 📖 [SCHOOL-LIBRARY] <a name="about-project"></a>
-In this project, I finish creating the remaining classes for the school library and create the associations between them.
+In this project, I create a form of UI for the school library app. This way it can be invoked as an executable and not something you use in IRB exclusively.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -37,6 +37,8 @@ In this project, I finish creating the remaining classes for the school library 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+### PRE-REQUISITE
+
 In order to run this project you need:
 
  VS_CODE 
@@ -47,21 +49,30 @@ Clone this repository to your desired folder:
 
   mkdir school-library
   cd school-library
-  git clone https://github.com/peter-mwovi/school-library.git
+  git clone git@github.com:eamador1/school-library.git
+
+  ### Install <a name="install">
+
+- To retrieve the dependencies of this project, run `bundle install`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+ ### Usage <a name="usage">
+
+To make use of this project on the console, kindly run `ruby main.rb`
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Peter Mwovi**
+👤 **Erwin Amador**
 
-- GitHub: [@githubhandle](https://github.com/peter-mwovi/)
-- Twitter: [@twitterhandle](https://twitter.com/mwovi_peter)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/peter-mwovi-57141a179/)
+- GitHub: [@eamador1](https://github.com/eamador1)
+- Twitter: [@hokieamador](https://twitter.com/hokieamador)
+- LinkedIn: [hokiemador](https://linkedin.com/in/hokiemador)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add basic UI]**
 - [ ] **[Unit Tests]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -71,7 +82,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/peter-mwovi/school-library/issues).
+Feel free to check the [issues page](https://github.com/eamador1/school-library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
